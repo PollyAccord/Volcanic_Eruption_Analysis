@@ -1,0 +1,57 @@
+Year,Month,Day,Name,Location,Country,Latitude,Longitude,Elevation,Type,VEI,Agent,DEATHS,INJURIES,MISSING,DAMAGE_MILLIONS_DOLLARS,TSU,EQ
+79,8,25,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,5.0,"P,T",2100.0,,,,+,+
+787,0,0,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0, ,,,,,-,-
+1169,2,4,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,,"S,W",,,,,+,+
+1169,2,11,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,, ,,,,,+,-
+1302,0,0,Ischia,Italy,Italy,40.73,13.897,789,Complex volcano,, ,,,,,-,-
+1329,6,28,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0, ,,,,,+,+
+1329,7,0,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,1.0,I,,,,,-,-
+1536,3,23,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0,T,1.0,,,,-,-
+1538,9,29,Campi Flegrei,Italy,Italy,40.827,14.139000000000001,458,Caldera,3.0,T,24.0,,,,-,-
+1631,12,16,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,5.0,"P,E,M",4000.0,,,,+,+
+1669,3,11,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0, ,,,,,-,+
+1669,3,19,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0,L,2.0,5.0,,,-,-
+1682,8,12,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0, ,4.0,,,,-,-
+1690,2,3,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,, ,,,,,+,-
+1693,1,9,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,, ,,,,,-,+
+1698,5,0,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0, ,,,,,+,-
+1714,6,30,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,, ,,,,,+,-
+1737,5,20,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0,T,2.0,,,,-,-
+1779,8,8,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0, ,,,,,-,-
+1794,6,15,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0,"M,L,T,G",400.0,,,,-,-
+1805,8,11,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0, ,4.0,,,,-,-
+1813,5,0,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0, ,,,,,+,-
+1832,11,1,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,L,,,,,-,-
+1843,11,17,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,L,56.0,,,,-,-
+1868,9,5,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,, ,,,,,+,+
+1872,4,24,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0,"L,G",9.0,11.0,,,-,-
+1873,0,0,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,,"G,T",9.0,,,,-,-
+1879,2,4,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0, ,,,,,+,-
+1905,3,10,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0,T,1.0,1.0,,,-,-
+1906,4,4,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,3.0,"T,L",350.0,300.0,,,+,-
+1916,7,3,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3.0, ,,,,,+,-
+1919,5,22,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3.0,T,4.0,,,,+,-
+1928,11,2,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,1.0,L,5.0,,,,-,-
+1929,8,2,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,T,2.0,,,,-,-
+1930,9,11,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,3.0,P,5.0,20.0,,,+,-
+1944,3,27,Vesuvius,Italy,Italy,40.821,14.425999999999998,1281,Complex volcano,2.0,"T,L,I",27.0,,,,-,-
+1944,8,20,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0, ,,,,,+,-
+1954,2,0,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,, ,,,,,+,-
+1970,3,2,Campi Flegrei,Italy,Italy,40.827,14.139000000000001,458,Caldera,,S,3.0,,,,-,-
+1979,7,5,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,T,9.0,23.0,,,-,-
+1981,3,17,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0, ,,,,10.0,-,-
+1984,10,16,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0,S,1.0,,,,-,-
+1985,12,19,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,1.0,S,1.0,,,,-,-
+1986,7,24,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0,T,1.0,,,,-,-
+1987,4,17,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,T,2.0,7.0,,,-,-
+1991,12,14,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0, ,,,,2.5,-,-
+2001,5,14,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0, ,1.0,,,,-,-
+2001,7,26,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0, ,,,,,-,-
+2001,10,20,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0,T,1.0,,,,-,-
+2002,8,28,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,3.0, ,,32.0,,,-,+
+2002,12,30,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,, ,,,,,+,-
+2017,3,15,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,,P,,10.0,,,-,-
+2017,9,12,Campi Flegrei,Italy,Italy,40.827,14.139000000000001,458,Caldera,, ,3.0,,,,-,-
+2018,12,26,Etna,Italy,Italy,37.734,15.004000000000001,3350,Stratovolcano,2.0,S,,,,,-,+
+2019,7,3,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0,"P,T",1.0,1.0,,,-,-
+2019,8,28,Stromboli,Italy,Italy,38.789,15.213,926,Stratovolcano,2.0,W,,,,,+,-
